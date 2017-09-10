@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/desarrollo/AndroidStudioProjects/CalculadoradeHipotenusayCatetos/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd26dfd3e93866c4dc608bc085d3473ffb9845ac">
+        <dex dex="/home/desarrollo/AndroidStudioProjects/CalculadoradeHipotenusayCatetos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d77a0a173e07e0cdb7fffb2c78af1acba433e7bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/desarrollo/AndroidStudioProjects/CalculadoradeHipotenusayCatetos/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/desarrollo/AndroidStudioProjects/CalculadoradeHipotenusayCatetos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f19dd6ead97495d1ad9408d37c8d04c1756f01ca/classes.dex" />
+    </item>
+
+</items>

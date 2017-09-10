@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora  de Hipotenusa y Catetos</string>
+    <string-array name="options_array">
+        <item>Hipotenusa C</item>
+        <item>Cateto A</item>
+        <item>Cateto B</item>
+    </string-array>
+</resources>
